@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ghost of Tsushima",
+    "price": 50.0,
+    "image": "imagenes/7.jpeg",
+    "platform": "PS4"
+  },
+  {
+    "id": 2,
+    "name": "Red Dead Redemption 2",
+    "price": 50.0,
+    "image": "imagenes/9.jpeg",
+    "platform": "PS4"
+  },
+  {
+    "id": 3,
+    "name": "Horizon Forbidden West",
+    "price": 50.0,
+    "image": "imagenes/8.jpeg",
+    "platform": "PS4"
+  }
+]

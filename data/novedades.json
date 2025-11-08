@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "The Last of Us Part II",
+    "price": 50.0,
+    "image": "imagenes/1.jpeg",
+    "platform": "PS5"
+  },
+  {
+    "id": 2,
+    "name": "Dying Light The Beast",
+    "price": 50.0,
+    "image": "imagenes/2.jpeg",
+    "platform": "PS5"
+  },
+  {
+    "id": 3,
+    "name": "Mortal Kombat X",
+    "price": 50.0,
+    "image": "imagenes/3.jpeg",
+    "platform": "PS4"
+  }
+]

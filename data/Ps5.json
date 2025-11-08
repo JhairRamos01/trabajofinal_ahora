@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ghost of Tsushima",
+    "price": 50.0,
+    "image": "imagenes/4.jpeg",
+    "platform": "PS5"
+  },
+  {
+    "id": 2,
+    "name": "Mortal Kombat X",
+    "price": 50.0,
+    "image": "imagenes/5.jpeg",
+    "platform": "PS5"
+  },
+  {
+    "id": 3,
+    "name": "Spiderman Miles Morales",
+    "price": 50.0,
+    "image": "imagenes/6.jpeg",
+    "platform": "PS5"
+  }
+]
